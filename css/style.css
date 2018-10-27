@@ -1,0 +1,31 @@
+/* Reset*/
+
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+/* General styling */
+
+body {
+color: #fcfcfc;
+font: 14px 'segeo ul', arial, Sans-Serif;
+background: #ccc;
+
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+    color: #54a6de; 
+
+}
+
+/* custom style */
+
+.container {
+    width: 71%;
+    margin: 10px auto;
+    overflow: auto;
+
+} 
