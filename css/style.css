@@ -24,8 +24,24 @@ a {
 /* custom style */
 
 .container {
-    width: 71%;
+    width: 70%;
     margin: 10px auto;
     overflow: auto;
 
-} 
+}
+
+#navbar {
+
+    display: block;
+    height: 40px;
+    background: #13181d;
+}
+
+#navbar a{
+
+    color: #fff;
+    display: inline-block;
+    height: 40px;
+    line-height: 37px;
+    padding: 0 15px;
+}
